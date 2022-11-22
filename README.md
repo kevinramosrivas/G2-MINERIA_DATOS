@@ -1,5 +1,5 @@
 # G2-MINERIA_DATOS
-## Proyecto final del curso de Mineria de datos - VII ciclo UNMSM
+## Proyecto final del curso de Mineria de datos - VIII ciclo UNMSM
 
 ### Integrantes del equipo
 * Blas Ruiz, Luis Aaron
